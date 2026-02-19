@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lyuhu32-cmyk.github.io/sitemap.xml
